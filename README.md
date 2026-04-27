@@ -130,7 +130,7 @@ montre-connectee/
 
 Projet réalisé dans le cadre du Master 1 TDSI Objets Connectés — Université de Poitiers.
 
-\---
+Made With ❤️ By Samuel_DASSI 
 
 ## 📄 Licence
 
